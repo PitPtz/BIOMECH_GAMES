@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/26_Pong_Cpp.dir/main.cpp.o CMakeFiles/26_Pong_Cpp.dir/Game.cpp.o CMakeFiles/26_Pong_Cpp.dir/Paddle.cpp.o CMakeFiles/26_Pong_Cpp.dir/PongObject.cpp.o CMakeFiles/26_Pong_Cpp.dir/Ball.cpp.o -o 26_Pong_Cpp   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSDL2.so 

@@ -1,0 +1,3 @@
+/home/pit/Desktop/Games/Pong-implementation-Cpp/build/CMakeFiles/26_Pong_Cpp.dir
+/home/pit/Desktop/Games/Pong-implementation-Cpp/build/CMakeFiles/edit_cache.dir
+/home/pit/Desktop/Games/Pong-implementation-Cpp/build/CMakeFiles/rebuild_cache.dir

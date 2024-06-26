@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/pit/Desktop/Games/Pong-implementation-Cpp/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/26_Pong_Cpp.dir/main.cpp.o -c /home/pit/Desktop/Games/Pong-implementation-Cpp/main.cpp",
+  "file": "/home/pit/Desktop/Games/Pong-implementation-Cpp/main.cpp"
+},
+{
+  "directory": "/home/pit/Desktop/Games/Pong-implementation-Cpp/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/26_Pong_Cpp.dir/Game.cpp.o -c /home/pit/Desktop/Games/Pong-implementation-Cpp/Game.cpp",
+  "file": "/home/pit/Desktop/Games/Pong-implementation-Cpp/Game.cpp"
+},
+{
+  "directory": "/home/pit/Desktop/Games/Pong-implementation-Cpp/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/26_Pong_Cpp.dir/Paddle.cpp.o -c /home/pit/Desktop/Games/Pong-implementation-Cpp/Paddle.cpp",
+  "file": "/home/pit/Desktop/Games/Pong-implementation-Cpp/Paddle.cpp"
+},
+{
+  "directory": "/home/pit/Desktop/Games/Pong-implementation-Cpp/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/26_Pong_Cpp.dir/PongObject.cpp.o -c /home/pit/Desktop/Games/Pong-implementation-Cpp/PongObject.cpp",
+  "file": "/home/pit/Desktop/Games/Pong-implementation-Cpp/PongObject.cpp"
+},
+{
+  "directory": "/home/pit/Desktop/Games/Pong-implementation-Cpp/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/SDL2 -g -std=gnu++17 -o CMakeFiles/26_Pong_Cpp.dir/Ball.cpp.o -c /home/pit/Desktop/Games/Pong-implementation-Cpp/Ball.cpp",
+  "file": "/home/pit/Desktop/Games/Pong-implementation-Cpp/Ball.cpp"
+}
+]
