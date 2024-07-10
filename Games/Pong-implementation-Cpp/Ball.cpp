@@ -1,6 +1,9 @@
 #include "Ball.h"
+#include "SDL.h"
 
 bool* Ball::hasBounced() { return &_hasBounced; }
+
+
 
 bool Ball::ballOut() {
     return _position.x < 0 ||

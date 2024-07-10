@@ -2,6 +2,7 @@
 #define INC_26_PONG_CPP_BALL_H
 
 #include "PongObject.h"
+#include "Paddle.h"
 
 class Ball : public PongObject {
     public:
@@ -15,7 +16,7 @@ class Ball : public PongObject {
                 _startVelocityX(movingSpeedX),
                 _startVelocityY(movingSpeedY),
                 _hasBounced(false),
-                _acceleration(0.02) {};
+                _acceleration(0.07) {};
 
         void updatePosition(float &deltaTime, unsigned short int &wallThickness, float &paddlePositionY, unsigned short int &paddleLength);
         bool* hasBounced();
@@ -29,6 +30,7 @@ class Ball : public PongObject {
         float _velocityY;
         float _acceleration;
         bool _hasBounced;
+        Paddle* _paddle;
     };
 
 

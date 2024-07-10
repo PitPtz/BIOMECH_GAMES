@@ -17,7 +17,11 @@ class Paddle : public PongObject {
 
 
         float* getPaddleDirection();
-        float* getPaddleMovingSpeed();;
+        float* getPaddleMovingSpeed();
+
+        void setPaddleMovingSpeed(float speed) { _mPaddleMovingSpeed = speed; };
+        float getPaddleMovingSpeed2() { return _mPaddleMovingSpeed; };
+        
 
     private:
         float _mPaddleDirection;
